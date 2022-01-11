@@ -1,3 +1,10 @@
 [
-    
+  {
+    "cve": "SNYK-JS-ISTANBULREPORTS-2328088",
+    "alwaysOmit": true
+  },
+  {
+    "cve": "SNYK-ALPINE315-MUSL-1928332",
+    "alwaysOmit": true
+  }
 ]
